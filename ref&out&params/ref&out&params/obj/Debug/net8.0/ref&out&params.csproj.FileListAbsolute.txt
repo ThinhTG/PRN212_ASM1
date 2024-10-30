@@ -1,0 +1,14 @@
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\bin\Debug\net8.0\ref&out&params.exe
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\bin\Debug\net8.0\ref&out&params.deps.json
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\bin\Debug\net8.0\ref&out&params.runtimeconfig.json
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\bin\Debug\net8.0\ref&out&params.dll
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\bin\Debug\net8.0\ref&out&params.pdb
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.AssemblyInfo.cs
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.dll
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\refint\ref&out&params.dll
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.pdb
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref&out&params.genruntimeconfig.cache
+C:\Users\thinh\source\repos\ref&out&params\ref&out&params\obj\Debug\net8.0\ref\ref&out&params.dll

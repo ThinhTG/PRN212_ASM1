@@ -1,0 +1,14 @@
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.AssemblyInfoInputs.cache
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.AssemblyInfo.cs
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.csproj.CoreCompileInputs.cache
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\bin\Debug\net8.0\PRN212_Tues_Slot1.exe
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\bin\Debug\net8.0\PRN212_Tues_Slot1.deps.json
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\bin\Debug\net8.0\PRN212_Tues_Slot1.runtimeconfig.json
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\bin\Debug\net8.0\PRN212_Tues_Slot1.dll
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\bin\Debug\net8.0\PRN212_Tues_Slot1.pdb
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.dll
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\refint\PRN212_Tues_Slot1.dll
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.pdb
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\PRN212_Tues_Slot1.genruntimeconfig.cache
+C:\Users\thinh\source\repos\PRN212_Tues_Slot1\PRN212_Tues_Slot1\obj\Debug\net8.0\ref\PRN212_Tues_Slot1.dll

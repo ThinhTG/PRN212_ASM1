@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|c:\\users\\thinh\\source\\repos\\hairsalonnew\\hairsalonnew\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|solutionrelative:hairsalonnew\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|c:\\users\\thinh\\source\\repos\\hairsalonnew\\hairsalonnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|solutionrelative:hairsalonnew\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\thinh\\AppData\\Local\\Temp\\.vsdbgsrc\\c37427ce7f6ce096da7fd11f902555fc19052489a3def22467804007cd3c4dd5\\BitmapFrameDecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|c:\\users\\thinh\\source\\repos\\hairsalonnew\\hairsalonnew\\assets\\img_signout.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|solutionrelative:hairsalonnew\\assets\\img_signout.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|c:\\users\\thinh\\source\\repos\\hairsalonnew\\hairsalonnew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{33A4FB91-4CFA-4A20-8CA5-363939D0B988}|HairSalonNew\\HairSalonNew.csproj|solutionrelative:hairsalonnew\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HairSalonNew\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\MainWindow.xaml",
+              "RelativeToolTip": "HairSalonNew\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T04:19:15.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BitmapFrameDecode.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\AppData\\Local\\Temp\\.vsdbgsrc\\c37427ce7f6ce096da7fd11f902555fc19052489a3def22467804007cd3c4dd5\\BitmapFrameDecode.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c37427ce7f6ce096da7fd11f902555fc19052489a3def22467804007cd3c4dd5\\BitmapFrameDecode.cs",
+              "ToolTip": "C:\\Users\\thinh\\AppData\\Local\\Temp\\.vsdbgsrc\\c37427ce7f6ce096da7fd11f902555fc19052489a3def22467804007cd3c4dd5\\BitmapFrameDecode.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\c37427ce7f6ce096da7fd11f902555fc19052489a3def22467804007cd3c4dd5\\BitmapFrameDecode.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANwBAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T00:26:38.656Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "img_signout.png - PNG [30x30, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\Assets\\img_signout.png",
+              "RelativeDocumentMoniker": "HairSalonNew\\Assets\\img_signout.png",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\Assets\\img_signout.png - PNG [30x30, 32 bit, PNG]",
+              "RelativeToolTip": "HairSalonNew\\Assets\\img_signout.png - PNG [30x30, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-24T05:42:30.182Z",
+              "EditorCaption": " - PNG [30x30, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\App.xaml",
+              "RelativeDocumentMoniker": "HairSalonNew\\App.xaml",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\App.xaml",
+              "RelativeToolTip": "HairSalonNew\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-24T05:25:18.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalonNew\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\thinh\\source\\repos\\HairSalonNew\\HairSalonNew\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HairSalonNew\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T04:19:12.355Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:67:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:68:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
